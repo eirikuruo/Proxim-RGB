@@ -1,2 +1,5 @@
 The purpose of this project is to make a proximity sensor with an arduino board, and use that to control a RGB diode array.
 The code in the CapacitiveSensor folder is not ours and is better to get at http://playground.arduino.cc//Main/CapacitiveSensor?from=Main.CapSense 
+
+
+Það er það sem talað er um en svo þegar öllu er á botninn hvolft verður þetta forritið sem stjórnar heiminum.
