@@ -9,7 +9,11 @@ What the F...
 
 http://openmicros.org/index.php/articles/94-ciseco-product-documentation/raspberry-pi/217-getting-started-with-raspberry-pi-gpio-and-python
 
+//Til að installa GPIO support fyrir python slá inn eftirfarandi
 $ wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.1.0.tar.gz
 $ tar zxf RPi.GPIO-0.1.0.tar.gz
 $ cd RPi.GPIO-0.1.0
 $ sudo python setup.py install
+
+//Þetta fyrir neðan er til að installa py serial
+sudo apt-get install python-serial
