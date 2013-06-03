@@ -2,7 +2,11 @@ The purpose of this project is to make a proximity sensor with an arduino board,
 The code in the CapacitiveSensor folder is not ours and is better to get at http://playground.arduino.cc//Main/CapacitiveSensor?from=Main.CapSense 
 
 
-Það er það sem talað er um en svo þegar öllu er á botninn hvolft verður þetta forritið sem stjórnar heiminum.:):)
+ï¿½aï¿½ er ï¿½aï¿½ sem talaï¿½ er um en svo ï¿½egar ï¿½llu er ï¿½ botninn hvolft verï¿½ur ï¿½etta forritiï¿½ sem stjï¿½rnar heiminum.:):)
 
 
 What the F...
+$ wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.1.0.tar.gz
+$ tar zxf RPi.GPIO-0.1.0.tar.gz
+$ cd RPi.GPIO-0.1.0
+$ sudo python setup.py install
