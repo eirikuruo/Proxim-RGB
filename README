@@ -19,3 +19,4 @@ $ sudo python setup.py install
 sudo apt-get install python-serial
 
 http://code.google.com/p/raspberry-gpio-python/wiki/PWM
+http://www.google.is/url?sa=t&rct=j&q=readstringuntil%20inpyserial&source=web&cd=7&ved=0CFwQFjAG&url=http%3A%2F%2Fwww.poli.br%2F~marcilio%2FArduino%2FLivros%2520sobre%2520Arduino%2FArduino%2520A%2520Quick%2520Start%2520Guide.pdf&ei=xnCuUYqXHcmfO-LZgNgI&usg=AFQjCNFZvd03wVrsspiwLFI0F5koEaDuAQ&bvm=bv.47244034,d.ZWU
