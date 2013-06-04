@@ -17,3 +17,5 @@ $ sudo python setup.py install
 
 //Þetta fyrir neðan er til að installa py serial
 sudo apt-get install python-serial
+
+http://code.google.com/p/raspberry-gpio-python/wiki/PWM
